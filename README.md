@@ -10,7 +10,7 @@
   <img align="center" alt="RenanTonon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
  
  
-![lets'go to programa!!! (1)](https://user-images.githubusercontent.com/84050603/129806745-3c16fc98-f28e-4489-b740-24e581c1016b.gif)<div> <a href="https://github.com/RenanTonon"><img height="173em" src="https://github-readme-stats.vercel.app/api?username=RenanTonon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanTonon&layout=compact&langs_count=7&theme=dracula"/></div>
+![lets'go to programa!!! (1)](https://user-images.githubusercontent.com/84050603/129806745-3c16fc98-f28e-4489-b740-24e581c1016b.gif)<div> <a href="https://github.com/RenanTonon"><img height="172em" src="https://github-readme-stats.vercel.app/api?username=RenanTonon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanTonon&layout=compact&langs_count=7&theme=dracula"/></div>
   
 ##
   
