@@ -4,6 +4,8 @@
 - 🐱‍👤 Atualmente estou estudando Orientação do objeto
 - 🍜 Aprendendo sobre Python de modo geral
 - 🤯 contate: tononjob@gmail.com
+
+![Time to program!](https://user-images.githubusercontent.com/84050603/129802437-2a8a2bbb-ce78-4c7e-85f8-3265b0fb2559.gif)
 <div>
   <a href="https://github.com/RenanTonon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanTonon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanTonon&layout=compact&langs_count=7&theme=dark"/>
