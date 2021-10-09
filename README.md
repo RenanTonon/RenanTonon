@@ -1,7 +1,7 @@
 ## Olá! Eu sou Renan Tonon
 
 
-- 🐱‍👤 Atualmente estou estudando Orientação do objeto
+- 🐱‍👤 Atualmente estou estudando String em Python: Extraindo informações de uma URL
 - 🍜 Aprendendo sobre Python de modo geral
 - 🤯 contate: tononjob@gmail.com
  
