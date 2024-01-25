@@ -1,8 +1,8 @@
 ## Olá! Eu sou Renan Tonon
 
 
-- 🐱‍👤 Atualmente estou estudando sobre C++
-- 🍜 Aprendendo sobre banco de dados 
+- 🐱‍👤 Atualmente estou estudando sobre Javascript.
+- 🍜 Aprendendo sobre Codigo Limpo.
 - 🤯 contate: tononjob@gmail.com
  
 <a href="https://www.instagram.com/tonon_2002/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
